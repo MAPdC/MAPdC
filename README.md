@@ -1,43 +1,54 @@
 # Hi there, I'm Miguel Cunha 👋
 
-**BSc Informatics Engineering @ University of Coimbra**
+**BSc in Informatics Engineering @ University of Coimbra**[cite: 1]
 
-I am a Informatics Engineer passionate about backend development, systems architecture and solving complex problems. I enjoy understanding how things work under the hood.
+I am a Informatics Engineer with hands-on experience in distributed systems, low-level programming, database modeling and full-stack web development[cite: 1]. I enjoy understanding how things work under the hood.
 
 ---
 
 ### 💻 What I Do
-- **Systems Engineering:** Core focus on languages like C and Java.
-- **Backend Development:** Building robust backend services and search architectures with Spring Boot.
-- **Web & Digital Management:** Managing web development and digital identity for brands.
-- **Leadership & Communication:** Former sports section leader at the Associação Académica de Coimbra (AAC), bringing strong teamwork and communication skills to collaborative environments.
+- **Systems Engineering:** Programmed a multi-process blockchain simulator in pure C with a strong focus on concurrency[cite: 1].
+- **Backend & Search:** Developed a distributed search engine with a concurrent web crawler and an inverted index[cite: 1].
+- **Web Development:** Built a high-performance front-end featuring a responsive and mobile-first design[cite: 1].
+- **Leadership & Communication:** Managing an organization equipped me with solid communication and teamwork skills[cite: 1]. I led a 200+ athlete sports organization and spearheaded the modernization and digitalization of the club's internal processes[cite: 1].
 
 ---
 
 ### 🚀 Highlighted Projects
 
-* **DEIChain:** A custom distributed network and blockchain simulator built entirely from scratch in **C**. It features strict management of shared memory, pipes, mutexes, and POSIX semaphores to prevent race conditions and deadlocks under stress.
-* **Googol:** A scalable search engine application developed using **Java** and the **Spring Boot** framework to efficiently index and retrieve information.
-* **Casttêdo Valley Website:** Full development and digital management for the Casttêdo Valley wine brand, taking responsibility for its visual identity, social media integration and web presence.
+* **DEIChain:** A multi-process blockchain simulator programmed in pure C with a strong focus on concurrency[cite: 1]. Optimized IPC and memory management via pthreads, named pipes and shared memory[cite: 1].
+* **Googol Search Engine:** A distributed search engine featuring a concurrent web crawler and an inverted index, developed using Java and Spring Boot[cite: 1]. It includes a web interface with real-time analytics and third-party API integrations, utilizing RMI, WebSockets, and Maven[cite: 1].
+* **Casttêdo Valley Website:** A high-performance front-end featuring a responsive and mobile-first design, built with React, Vite, and CSS[cite: 1]. Automated the CI/CD pipeline using GitHub Actions for continuous deployment to GitHub Pages[cite: 1].
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+**Languages & Databases**
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)[cite: 1]
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)[cite: 1]
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)[cite: 1]
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)[cite: 1]
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)[cite: 1]
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)[cite: 1]
+
+**Frameworks & Libraries**
+![Spring Boot](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)[cite: 1]
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)[cite: 1]
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)[cite: 1]
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)[cite: 1]
+
+**Tools & Environments**
+![Linux / POSIX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)[cite: 1]
+![Git / GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)[cite: 1]
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)[cite: 1]
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)[cite: 1]
 
 ---
 
 ### ⚡ Beyond the Screen
 
-When I'm not writing code or analyzing technical charts for ETF trading, you can find me:
+When I'm not writing code you can find me:
 - 🌿 Escaping to the countryside to enjoy nature.
 - 🍷 Exploring the world of enology, visiting vineyards and learning about the science behind a good wine.
 - 🎧 Listening to Portuguese Hip-Hop to keep the focus while coding.
@@ -48,4 +59,4 @@ When I'm not writing code or analyzing technical charts for ETF trading, you can
 
 <a href="https://www.linkedin.com/in/miguelapcunha/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-**Drop me a message if you want to talk about systems architecture, software development or just to recommend a great wine!**
+**Drop me a message if you want to talk about software development or just to recommend a great wine!**
