@@ -2,14 +2,14 @@
 
 **BSc in Informatics Engineering @ University of Coimbra**
 
-I am a Informatics Engineer with hands-on experience in distributed systems, low-level programming, database modeling and full-stack web development. I enjoy understanding how things work under the hood.
+I am an Informatics Engineer with hands-on experience in distributed systems, low-level programming, database modeling and full-stack web development. I enjoy understanding how things work under the hood.
 
 ---
 
 ### 💻 What I Do
 - **Systems Engineering:** Programmed a multi-process blockchain simulator in pure C with a strong focus on concurrency.
 - **Backend & Search:** Developed a distributed search engine with a concurrent web crawler and an inverted index.
-- **Web Development:** Built a high-performance front-end featuring a responsive and mobile-first design.
+- **Web Development:** Built and maintain a bilingual production website, from front-end to SEO, CI/CD and hosting.
 - **Leadership & Communication:** Managing an organization equipped me with solid communication and teamwork skills. I led a 200+ athlete sports organization and spearheaded the modernization and digitalization of the club's internal processes.
 
 ---
@@ -18,7 +18,7 @@ I am a Informatics Engineer with hands-on experience in distributed systems, low
 
 * **DEIChain:** A multi-process blockchain simulator programmed in pure C with a strong focus on concurrency. Optimized IPC and memory management via pthreads, named pipes and shared memory.
 * **Googol Search Engine:** A distributed search engine featuring a concurrent web crawler and an inverted index, developed using Java and Spring Boot. It includes a web interface with real-time analytics and third-party API integrations, utilizing RMI, WebSockets and Maven.
-* **Casttêdo Valley Website:** A high-performance front-end featuring a responsive and mobile-first design, built with React, Vite and CSS. Automated the CI/CD pipeline using GitHub Actions for continuous deployment to GitHub Pages.
+* **Casttêdo Valley Website:** A bilingual (PT/EN), mobile-first website for a Douro wine producer, live at [casttedovalley.com](https://www.casttedovalley.com/). Built with React and Vite, with a build step that pre-renders every page with its own SEO metadata, structured data and sitemap. CI on GitHub Actions (lint, automated tests, dependency audit) and continuous deployment to Cloudflare Pages with a preview for every branch.
 
 ---
 
@@ -36,6 +36,7 @@ I am a Informatics Engineer with hands-on experience in distributed systems, low
 ![Spring Boot](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![Vitest](https://img.shields.io/badge/vitest-%236E9F18.svg?style=for-the-badge&logo=vitest&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
 **Tools & Environments**
@@ -43,6 +44,7 @@ I am a Informatics Engineer with hands-on experience in distributed systems, low
 ![Git / GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 
 ---
 
